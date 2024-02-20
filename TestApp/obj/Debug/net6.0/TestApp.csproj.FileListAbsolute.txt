@@ -1,0 +1,15 @@
+C:\Firsttry Folder\Firsttry\TestApp\bin\Debug\net6.0\TestApp.exe
+C:\Firsttry Folder\Firsttry\TestApp\bin\Debug\net6.0\TestApp.deps.json
+C:\Firsttry Folder\Firsttry\TestApp\bin\Debug\net6.0\TestApp.runtimeconfig.json
+C:\Firsttry Folder\Firsttry\TestApp\bin\Debug\net6.0\TestApp.dll
+C:\Firsttry Folder\Firsttry\TestApp\bin\Debug\net6.0\TestApp.pdb
+C:\Firsttry Folder\Firsttry\TestApp\obj\Debug\net6.0\TestApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Firsttry Folder\Firsttry\TestApp\obj\Debug\net6.0\TestApp.AssemblyInfoInputs.cache
+C:\Firsttry Folder\Firsttry\TestApp\obj\Debug\net6.0\TestApp.AssemblyInfo.cs
+C:\Firsttry Folder\Firsttry\TestApp\obj\Debug\net6.0\TestApp.csproj.CoreCompileInputs.cache
+C:\Firsttry Folder\Firsttry\TestApp\obj\Debug\net6.0\TestApp.sourcelink.json
+C:\Firsttry Folder\Firsttry\TestApp\obj\Debug\net6.0\TestApp.dll
+C:\Firsttry Folder\Firsttry\TestApp\obj\Debug\net6.0\refint\TestApp.dll
+C:\Firsttry Folder\Firsttry\TestApp\obj\Debug\net6.0\TestApp.pdb
+C:\Firsttry Folder\Firsttry\TestApp\obj\Debug\net6.0\TestApp.genruntimeconfig.cache
+C:\Firsttry Folder\Firsttry\TestApp\obj\Debug\net6.0\ref\TestApp.dll
